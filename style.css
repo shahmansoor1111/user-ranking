@@ -47,8 +47,8 @@ h1{
     border-radius: 5px;
 }
 .circle{
-    width: 120px;
-    height: 120px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     border: 2px solid rgb(153, 255, 0);
     position: relative;
